@@ -4,5 +4,5 @@ tasks:
 2.For the above JSON iterate over all for loops(for,for in,for of,forEach).
 
 for the first question the answer is in the resume.js file
-for the second question the answer is in the resume(for...eachloop).js ,resume(for...inLoop).js ,resume(for...ofLoop).js,resume(forloop).js.
+and for the second question the answer is in the resume(for...eachloop).js ,resume(for...inLoop).js ,resume(for...ofLoop).js,resume(forloop).js.
 
